@@ -30,9 +30,9 @@ https://openlibrary.org/search.json
 
 ## Screenshot
 
-(image/Home.png)[HomePage]
-(image/Error.png)[Errorresult]
-(image/SQL.png)[SQLschema]
+![HomePage](image/Home.png)
+![Errorresult](image/Error.png)
+![SQLschema](image/SQL.png)
 
 ## Database Schema
 
