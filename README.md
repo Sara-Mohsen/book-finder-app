@@ -36,7 +36,7 @@ https://openlibrary.org/search.json
 
 ## Database Schema
 
-A sample database schema is provided in the `schema.sql` file.
+A sample database schema is provided in the `book-schema.sql` file.
 
 Table: `saved_searches`
 
