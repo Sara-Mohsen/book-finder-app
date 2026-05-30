@@ -45,4 +45,5 @@ Purpose:
 
 ![HomePage](image/Home.png)
 ![Errorresult](image/Error.png)
+![LoadingSpinner](image/Loading.png)
 ![SQLschema](image/SQL.png)
