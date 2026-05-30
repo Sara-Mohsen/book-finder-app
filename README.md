@@ -33,3 +33,14 @@ https://openlibrary.org/search.json
 ![HomePage](image/Home.png)
 ![Errorresult](image/Error.png)
 ![SQLschema](image/SQL.png)
+
+## Database Schema
+
+A sample database schema is provided in the `schema.sql` file.
+
+Table: `saved_searches`
+
+Purpose:
+- Store searched book titles
+- Store search queries
+- Save search date and time
